@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+Just another repository.
+Daria here. 
+Do you like tomatoes?
+★ Yes
+✩ No
